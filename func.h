@@ -2,8 +2,6 @@
 #define FUNC_H
 
 
-inline int func_add(int a,int b){
-    return a+b;
-}
+int func_add(int a,int b);
 
 #endif
